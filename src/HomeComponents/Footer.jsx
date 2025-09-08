@@ -61,14 +61,7 @@ export default function Footer() {
             <Link href={'#'}>Privacy Policy</Link>
             <Link href={'#'}>Status</Link>
           </Stack>
-          <Stack align={'flex-start'}>
-            <ListHeader>Support</ListHeader>
-            <Link href={'/contact'}>Help Center</Link>
-            <Link href={'#'}>Terms of Service</Link>
-            <Link href={'#'}>Legal</Link>
-            <Link href={'#'}>Privacy Policy</Link>
-            <Link href={'#'}>Status</Link>
-          </Stack>
+        
           <Stack spacing={6} textAlign={'left'}>
             <Text fontSize={'sm'}>Social Links</Text>
             <Text fontSize={'sm'}>
